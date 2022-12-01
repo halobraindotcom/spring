@@ -1,6 +1,11 @@
 Swagger is an open source project used to generate the REST API documents for RESTful web services. 
 It provides a user interface to access our RESTful web services via the web browser.
 
+For the other developers to be able to use our API to know that what are the endpoints exposed by the api and what are the operations supported on those endpoints.
+What parameters should they pass and what will they get back and What authentication methods to use.
+The API must be properly documented, if you want APIs to be consumed and properly used.
+
+
 
 	<!-- START of swagger2  -->
 		<dependency>
