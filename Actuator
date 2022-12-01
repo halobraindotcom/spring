@@ -9,6 +9,16 @@ Maven users can add the below dependency in your pom.xml file.
 </dependency>
 
 
+In the application.properties file, we need to disable the security for actuator endpoints.
+
+management.security.enabled = false
+
+YAML file users can add the following property in your application.yml file.
+
+management:
+   security:
+      enabled: false
+
 
 ENDPOINTS	USAGE
 /metrics	To view the application metrics such as memory used, memory free, threads, classes, system uptime etc.
