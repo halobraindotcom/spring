@@ -1,0 +1,9 @@
+Enabling Spring Boot Actuator
+To enable Spring Boot actuator endpoints to your Spring Boot application, we need to add the Spring Boot Starter actuator dependency in our build configuration file.
+
+Maven users can add the below dependency in your pom.xml file.
+
+<dependency>
+   <groupId>org.springframework.boot</groupId>
+   <artifactId>spring-boot-starter-actuator</artifactId>
+</dependency>
