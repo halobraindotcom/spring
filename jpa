@@ -1,0 +1,14 @@
+JPA 
+
+Spring Data repository interfaces
+
+JPA Providers
+
+JPA is an open source API, therefore various enterprise vendors such as Oracle, Redhat, Eclipse, etc.
+provide new products by adding the JPA persistence flavor in them. 
+
+Some of these products include: 
+Hibernate, Eclipselink, Toplink, Spring Data JPA, etc.
+
+https://openjpa.apache.org/
+
