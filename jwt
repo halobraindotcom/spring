@@ -1,3 +1,24 @@
 JWT in spring
 
 https://jwt.io/
+
+
+
+Session Token
+Statefull
+Stores information in server side
+Suitable for the monolithic application
+
+JWT
+Stateless
+Stores infromation in client side
+Sutiable for mulit instance and micorservice
+
+JWt Structure
+Header
+Payload
+Signature
+
+
+
+
