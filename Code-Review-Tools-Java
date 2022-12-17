@@ -4,4 +4,28 @@
 
 ### Eclipse plugin
 
+SpotBugs
+
+Eclipse Checkstyle Plugin
+
+FindBugs™ - Find Bugs in Java Programs
+https://findbugs.sourceforge.net/
+
+PMD
+https://pmd.github.io/
+PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. 
+It supports Java, JavaScript, Salesforce.com Apex and Visualforce, PLSQL, Apache Velocity, XML, XSL.
+Additionally it includes CPD, the copy-paste-detector. 
+CPD finds duplicated code in Java, C, C++, C#, Groovy, PHP, Ruby, Fortran, JavaScript, PLSQL, Apache Velocity, 
+Scala, Objective C, Matlab, Python, Go, Swift and Salesforce.com Apex and Visualforce.
+
+
+### JaCoCo Java Code Coverage Library
+https://www.eclemma.org/jacoco/
+
+
+### https://www.sonarqube.org/
+Code Quality and Code Security
+SonarQube empowers all developers to write cleaner and safer code.
+Join an Open Community of more than 200k dev teams.
 
